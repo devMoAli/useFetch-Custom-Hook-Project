@@ -1,7 +1,5 @@
 # useFetch-Custom-Hook
 
-useFetch-Custom-Hook-Project
-
 When we create any custom hook we need to decide, 
 Parameters: Decide if the hook requires any parameters to customize its behaviour.
 Return Values: Define the return values of the hook. It could be a single value, multiple values (e.g., an array), or a function.
